@@ -15,7 +15,7 @@
 
             @endforeach
         </div>
-        <button class="btn" wire:click.prevent="CreatePool">Submit</button>
+        <button class="btn" wire:click.prevent="createPool">Submit</button>
     </form>
 
 </div>
